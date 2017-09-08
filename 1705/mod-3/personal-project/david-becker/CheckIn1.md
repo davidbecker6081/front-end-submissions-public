@@ -56,6 +56,7 @@ Option: user can find one person and connect with and then choose a thing to do 
   - thunk is set up
 - store is set up to hold a friends Array
 - wrastled with Firebase for toooo long (meeting with mentor this afternoon to help)
+- ......wrastled with it again
 
 
 #### Instructor Notes
