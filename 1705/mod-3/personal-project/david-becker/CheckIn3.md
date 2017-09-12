@@ -74,4 +74,10 @@ Option: user can find one person and connect with and then choose a thing to do 
   - Figured out how to ask for more info from the user
 
 
-
+### Deliverables for next checkin 
+ - styling 
+ - start testing 
+     - mock user 
+ - login portion 
+ - making sure data is only scope to the current user / current location 
+ - get the "little" / "non critical" things taken care of so you can dedicate all of your time to soliving oauth
