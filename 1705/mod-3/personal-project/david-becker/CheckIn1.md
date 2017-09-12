@@ -62,6 +62,16 @@ Option: user can find one person and connect with and then choose a thing to do 
 
 #### Deliverables for next checkin:
 
+#### Checkin 3:
+
+### Things I've done
+  - set up messaging (with firebase database and redux cycle)
+  - database refactor to store per logged in user and recipient user
+  - displaying some information now
+  - revamped my UI to look cleaner
+  - figured out Facebook API so that I'm getting back all of the info I need from each friend user
+  - Routing
+  - Figured out how to ask for more info from the user
 
 
 
