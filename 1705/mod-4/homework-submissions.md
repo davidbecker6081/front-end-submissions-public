@@ -23,20 +23,20 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Express Tutorial]()
 * [Promise Practice Exercises]()
-* Websockets Tutorial
+* Websockets Tutorial (https://github.com/anajauregui/Web-sockets)
 
 ### Christie Lynam
 
 * [Express Tutorial](https://github.com/christielynam/express-tutorial) - Further Challenges: 1-3
 * [Promise Practice Exercise 1](https://repl.it/LtmK/0)
 * [Promise Practice Exercise 2](https://repl.it/LtmW/5)
-* Websockets Tutorial
+* [Websockets Tutorial](https://github.com/christielynam/web-sockets-chat)
 
 ### Dan Alvarez
 
 * [Express Tutorial](https://github.com/danalvarez5280/PreWorkMod4) -Further Challenges 1-3
 * [Promise Practice Exercises](https://repl.it/LvA0/0)
-* Websockets Tutorial
+* [Websockets Tutorial](https://github.com/danalvarez5280/Web-Socket-Exercise) Challenges 'User is typing', 'User name input', 'User logged in/logged out'
 
 ### David Becker
 
@@ -96,7 +96,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Express Tutorial](https://github.com/tylerjhevia/express-practice) Exercises 1-3
 * [Promise Practice Exercises](https://github.com/tylerjhevia/promise-practice)
-* Websockets Tutorial
+* [Websockets Tutorial](https://github.com/tylerjhevia/socket-chat)
 
 ### David Becker
 
@@ -105,3 +105,4 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [WebSockets Tutorial](https://github.com/davidbecker6081/socket-hw) = Complete Exercises: 1, 3, 4
 * [Pattrn Party GitHub](https://github.com/davidbecker6081/PattrnParty)
 * [Pattrn Party GH Pages](https://davidbecker6081.github.io/PattrnParty/)
+
